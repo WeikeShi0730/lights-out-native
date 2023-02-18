@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "lights-out-native",
+    "slug": "lights-out-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "lights-out-native"
+}
